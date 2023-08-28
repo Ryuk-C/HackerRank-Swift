@@ -3,7 +3,8 @@ class Solution {
     // Created by Cuma Haznedar
 
     // Simple Array Sum
-
+    // https://www.hackerrank.com/challenges/simple-array-sum/problem
+    
     //Given an array of integers, find the sum of its elements.
     //For example, if the array ar = [1, 3, 5], 1 + 3 + 5 = 9 so return 9.
 
