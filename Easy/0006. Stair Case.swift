@@ -3,6 +3,7 @@ class Solution {
 // Created by Cuma Haznedar
 
 // Stair Case
+// https://www.hackerrank.com/challenges/staircase/problem
 
 // Its base and height are both equal to . It is drawn using # symbols and spaces. The last line is not preceded by any spaces. Write a program that prints a staircase of size n.
 
